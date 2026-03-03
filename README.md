@@ -26,4 +26,4 @@ I used the public dataset of alarms in Israel. The analysis focus specifically o
 
 ---
 **Author:** Alex Tsiris  
-**Field:** Industrial Engineering and Management (Big Data specialization)
+**Field:** Industrial Engineering and Management.
