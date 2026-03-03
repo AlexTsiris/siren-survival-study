@@ -9,7 +9,7 @@ Instead of just counting the number of alarms, I use the **Kaplan-Meier Estimato
 * **The "Survival Time"** is the number of hours of silence between sirens.
 
 ### **Data Source**
-I used the public dataset of alarms in Israel (2023-2024). The analysis focus specifically on 4 main districts of Tel Aviv:
+I used the public dataset of alarms in Israel. The analysis focus specifically on 4 main districts of Tel Aviv:
 1. **South & Jaffa**
 2. **City Center**
 3. **East**
@@ -21,7 +21,7 @@ I used the public dataset of alarms in Israel (2023-2024). The analysis focus sp
 * **District Comparison:** A summary table to compare which areas are more resilient.
 
 ### **How to use**
-1. Open the `Analysis.ipynb` file to see the code and graphs.
+1. Open the `Kaplan-Meier Model Tel Aviv Rocket Alerts.ipynb` file to see the code and graphs.
 2. The code is organized into 3 sections: Calculations, Visualization, and Final Summary.
 
 ---
